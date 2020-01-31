@@ -1,0 +1,41 @@
+<component name="libraryTable">
+  <library name="EJB" type="EJB">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/Compressed/jar_files_2/jboss-ejb3-ext-api-2.3.0.Final.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Compressed/jar_files/jboss-ejb3x-4.2.2.GA.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/ejb-api-3.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javax.batch-api.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javax.ejb-api.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javax.el.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javax.enterprise.concurrent-api.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javax.enterprise.concurrent.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javax.enterprise.deploy-api.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javax.faces.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javax.inject.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javax.interceptor-api.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javax.jms-api.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javax.json.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javax.mail.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javax.management.j2ee-api.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javax.persistence-2.1.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javax.persistence.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javax.resource-api.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javax.security.auth.message-api.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javax.security.jacc-api.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javax.servlet-api.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javax.servlet.jsp-api.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javax.servlet.jsp-api_2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javax.servlet.jsp.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javax.servlet.jsp.jstl-api.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javax.servlet.jsp.jstl.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javax.transaction-api.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javax.websocket-api.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javax.ws.rs-api.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javax.xml.registry-api.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javax.xml.rpc-api.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jboss-ejb3-4.2.3.GA.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

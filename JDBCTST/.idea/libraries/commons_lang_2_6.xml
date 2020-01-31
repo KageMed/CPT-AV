@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="commons-lang-2.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/IdeaProjects/TPJDBC/commons-lang-2.6.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/TPJDBC/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/TPJDBC/hsqldb-2.3.1.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/TPJDBC/jackcess-2.1.6.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/TPJDBC/ucanaccess-4.0.1.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/TPJDBC/ojdbc8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="EJBCalcule">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../EJBCalcule" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../EJBCalcule/ejbModule" />
+    </SOURCES>
+  </library>
+</component>
